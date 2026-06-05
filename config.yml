@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Mailing Lists
+    url: https://lists.openan.dev
+    about: For general questions and discussion, please use the OpenAN mailing lists.
+  - name: Security Vulnerability
+    url: https://github.com/project-openan/.github/blob/main/SECURITY.md
+    about: To report a security vulnerability, please follow the Security Policy. Do not open a public issue.
+  - name: LFN Project Support
+    url: mailto:support@lfnetworking.org
+    about: For governance, community operations, wiki access, or other project management questions.
+  - name: LF IT Support
+    url: https://support.linuxfoundation.org
+    about: For infrastructure issues such as GitHub access, SSO/LFID accounts, or tooling problems.
